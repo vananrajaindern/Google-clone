@@ -1,0 +1,60 @@
+button {
+    border: none;
+    background-color: transparent;
+    outline: none;
+    padding-right: 5px;
+}
+
+button:focus {
+    border: none;
+}
+
+.sign-in {
+  background: #4285f4;
+  padding: 5px;
+  font-weight: bold;
+  border-radius: 1px;
+  color: white;
+  font-type: verdana;
+  padding-right:5px;
+  padding-left: 5px;
+}
+
+.word-link {
+  color: black;
+  padding-right:5px;
+}
+
+
+body {
+
+  padding: 15px;
+}
+
+.menu {
+    text-align: right;
+}
+
+
+
+.search-container {
+  margin: 0px auto; width: 400px;
+}
+
+.lucky-button {
+  text-align: center;
+  background: #D8D8D8;
+  padding: 5px;
+  font-weight: normal;
+  border-radius: 1px;
+  color: #787878;
+  font-type: verdana;
+  padding-right:5px;
+  padding-left: 5px;
+  margin-top: 20px;
+  display: inline-block;
+  margin-left: 20px
+
+
+
+}
